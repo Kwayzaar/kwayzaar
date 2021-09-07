@@ -31,9 +31,6 @@
 <br>
 
 
-### Let's connect! 
-<img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
-
 <!--
 **Kwayzaar/kwayzaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
