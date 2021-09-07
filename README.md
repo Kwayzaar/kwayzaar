@@ -3,7 +3,7 @@
 
 ##### A little about me: 
 ###### - tech enthusiast 
-###### - passion for learning new programming languages 
+###### - passion for learning new programming languages...but loving JS right now 
 ###### - loves reading! Scifi/fantasy/non-fic...gimme 
 ###### - truly enjoys grinding out that last squat rep 
 
