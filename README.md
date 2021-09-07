@@ -3,7 +3,8 @@
 
 <br>
 
-#### Tech Stack:
+#### The tech I play with:
+<i class="devicon-css3-plain-wordmark"></i>
 <!--
 **Kwayzaar/kwayzaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
