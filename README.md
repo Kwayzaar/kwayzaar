@@ -1,6 +1,5 @@
 
 ## Hi! I'm Eric, and welcome to my Github :wave:
-<br>
 
 ##### A little about me: 
 ###### - tech enthusiast 
