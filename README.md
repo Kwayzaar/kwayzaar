@@ -3,7 +3,7 @@
 
 <br>
 
-#### The tech I play with:
+#### The tech I play with :computer:
 <img align="left" width="30px" alt="js-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="30px" alt="react-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="30px" alt="css-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
