@@ -4,7 +4,7 @@
 <br>
 
 #### The tech I play with:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" />
 <!--
 **Kwayzaar/kwayzaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
