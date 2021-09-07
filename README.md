@@ -1,9 +1,9 @@
 
-### Hi! I'm Eric, and welcome to my Github :wave:
+## Hi! I'm Eric, and welcome to my Github :wave:
 
 <br>
 
-## Tech Stack:
+#### Tech Stack:
 <!--
 **Kwayzaar/kwayzaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
