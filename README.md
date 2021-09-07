@@ -20,7 +20,7 @@
 <br>
 
 #### Current read list :book:
-<img align="left" width="30px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" /><img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" /><img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" /><img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" />
+<img align="left" width="60px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" /><img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" /><img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" /><img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" />
 
 #### Let's connect! 
 
