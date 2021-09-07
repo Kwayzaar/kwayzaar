@@ -17,7 +17,9 @@
 <img align="left" width="30px" alt="ruby-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" />
 
+
 <br>
+
 
 #### Current read list :book:
 <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
@@ -25,7 +27,9 @@
 <img align="left" width="80px" alt="nemesis-games" src="https://static.wikia.nocookie.net/expanse/images/6/60/Nemesis_Games.jpg/revision/latest/scale-to-width-down/329?cb=20140808222629" />
 <img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" />
 
+
 <br>
+
 
 #### Let's connect! 
 
