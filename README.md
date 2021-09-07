@@ -1,6 +1,5 @@
-<iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre"></a></p>
 
-### Hello there 
+### Hi! I'm Eric, and welcome to my Github :wave:
 
 <!--
 **Kwayzaar/kwayzaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
