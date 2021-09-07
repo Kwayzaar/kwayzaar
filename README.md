@@ -1,7 +1,7 @@
 
 # Hi! I'm Eric, and welcome to my Github :wave:
 
-##### A little about me: 
+#### A little about me: 
 ###### - tech enthusiast 
 ###### - passion for learning new programming languages...but loving JS right now 
 ###### - loves reading! Scifi/fantasy/non-fic...gimme 
