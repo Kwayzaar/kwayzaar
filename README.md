@@ -10,8 +10,10 @@
 ***
 <div>
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)  
-</div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox" />
+</div> 
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)   -->
+
   
 <div>  
 ### The tech I build with :computer: 
