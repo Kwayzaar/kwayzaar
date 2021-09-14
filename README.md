@@ -60,7 +60,8 @@
 ***  
   
 ### Current read list :book:
-<div align="top">
+  
+<div align="top" width="full" height="full">
   <div width="full" height="full" align="top">
     <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
     <img align="left" width="92px" alt="grokking-alg" src="https://images.manning.com/360/480/resize/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png" />
