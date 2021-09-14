@@ -9,10 +9,12 @@
 
 #
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
- 
 
-### The tech I build with :computer: <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
+
+***
+
+### The tech I build with :computer: 
 <img align="left" width="30px" alt="js-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="30px" alt="react-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="30px" alt="css-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -24,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
 
-
+***
 
 ### Current read list :book:
 <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
@@ -32,8 +34,6 @@
 <img align="left" width="80px" alt="nemesis-games" src="https://static.wikia.nocookie.net/expanse/images/6/60/Nemesis_Games.jpg/revision/latest/scale-to-width-down/329?cb=20140808222629" />
 <img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" /><br />
 
-
-<br />
 
 
 <!--
