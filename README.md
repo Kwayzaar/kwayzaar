@@ -20,8 +20,9 @@
     <a href="https://github.com/kwayzaar/github-readme-stats">
       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
     </a>
+    <br/>
   </div>
-  <br/>
+  
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)   -->
  
