@@ -12,17 +12,18 @@
   <div>
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox" />
   </div> 
-  
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)   -->
- 
-### The tech I build with :computer: 
-
-<div width="full" height="full" align="top">
+  <br/>
   <!-- language counter -->
   <div width="full" height="full" align="left">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
   <br/>
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)   -->
+ 
+### Frameworks I like :computer: 
+
+<div width="full" height="full" align="top">
   <div width="full" height="full" align="left">  
     <img align="left" width="30px" alt="js-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img align="left" width="30px" alt="react-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
