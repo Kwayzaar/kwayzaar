@@ -62,7 +62,7 @@
 ### Current read list :book:
   
 <div align="left">
-  <div width="full" height="full" align="top">
+  <div width="full" height="full" align="left">
     <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
     <img align="left" width="92px" alt="grokking-alg" src="https://images.manning.com/360/480/resize/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png" />
     <img align="left" width="80px" alt="nemesis-games" src="https://static.wikia.nocookie.net/expanse/images/6/60/Nemesis_Games.jpg/revision/latest/scale-to-width-down/329?cb=20140808222629" />
@@ -73,7 +73,7 @@
   
   
 ### Let's Connect! 
-  <div width="full" height="full" align="left">
+  <div width="full" height="full" align="top">
     <a align="left" width="full" height="full">
       <img align="left" width="50" height="50" alt="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
     </a>
