@@ -8,7 +8,7 @@
 ###### - truly enjoys grinding out that last squat rep  
 
 ***
-<div align="center">
+<div align="top">
 <div style="display: flex, align-items: flex-start">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox" />
 </div> 
