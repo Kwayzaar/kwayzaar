@@ -20,7 +20,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwayzaar)](https://github.com/kwayzaar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=tokyonight)](https://github.com/kwayzaar/github-readme-stats)
 
 
 
