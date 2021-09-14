@@ -7,7 +7,7 @@
 ###### - loves reading! Scifi/fantasy/non-fic...gimme 
 ###### - truly enjoys grinding out that last squat rep 
 
-<br>
+<br />
 
 ### The tech I build with :computer:
 <img align="left" width="30px" alt="js-badge" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -18,7 +18,7 @@
 <img align="left" width="60px" alt="rails-badge" src="https://camo.githubusercontent.com/4d6148f7e45a3dc16811f96438cc4b53c6df19af8c491c5eb73d4579cbbb4bd3/68747470733a2f2f727562796f6e7261696c732e6f72672f696d616765732f7261696c732d6c6f676f2e737667" />
 
 
-<br>
+<br />
 
 <a href="https://github.com/kwayzaar/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&layout=compact&theme=gruvbox" />
@@ -35,7 +35,7 @@
 <img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" />
 
 
-<br>
+<br />
 
 
 <!--
