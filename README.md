@@ -22,9 +22,9 @@
 
 <a href="https://github.com/kwayzaar/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&layout=compact&theme=gruvbox" />
-</a>
+</a><br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)<br />
 
 
 
@@ -32,7 +32,7 @@
 <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
 <img align="left" width="92px" alt="grokking-alg" src="https://images.manning.com/360/480/resize/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png" />
 <img align="left" width="80px" alt="nemesis-games" src="https://static.wikia.nocookie.net/expanse/images/6/60/Nemesis_Games.jpg/revision/latest/scale-to-width-down/329?cb=20140808222629" />
-<img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" />
+<img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" /><br />
 
 
 <br />
