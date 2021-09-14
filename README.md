@@ -71,7 +71,7 @@
   </div>
   <br/>
   
-**
+*
   
 ### Let's Connect! 
   <div width="full" height="full" align="top">
