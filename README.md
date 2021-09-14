@@ -27,7 +27,7 @@
   </div>
   <br/>
   <!-- language counter -->
-  <div style="min-width: 100%" align="left">
+  <div style="min-width: 100%; min-height: full" align="left">
     <img align="left" style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
   <br/>
