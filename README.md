@@ -20,9 +20,9 @@
 
 <br>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
+<a href="https://github.com/kwayzaar/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&layout=compact&theme=gruvbox" />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
 
