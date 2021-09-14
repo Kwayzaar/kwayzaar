@@ -10,12 +10,16 @@
 ***
 <div align="left">
   <div>
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox" />
+    <a href="https://github.com/kwayzaar/github-readme-stats">
+      <img align="top" src="https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox" />
+    </a>
   </div> 
   <br/>
   <!-- language counter -->
   <div width="full" height="full" align="left">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
+    <a href="https://github.com/kwayzaar/github-readme-stats">
+      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
+    </a>
   </div>
   <br/>
   
