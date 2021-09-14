@@ -30,8 +30,9 @@
   <div style="width:100%" align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
+  <br/>
 </div>
-<br/>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats) -->
 
