@@ -23,8 +23,8 @@
   </div>
  
   <!-- language counter -->
-  <div style="min-width: 100%; min-height: full">
-    <img align="left" style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
+  <div width="full">
+    <img align="left" width="100" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
   <br/>
 </div>
