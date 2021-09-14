@@ -69,9 +69,16 @@
 <br/>
   
 ### Let's Connect! 
-<div>
-  <a></a>
-    <img align="left" width="100" height="100" alt="linkedin-icon" src=""
+<div align="top">
+  <a>
+    <img align="left" width="100" height="100" alt="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+  </a>
+  <a>
+    <img align="left" width="100" height="100" alt="gmail-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /><p>: lee.eric.03</p>
+  </a>
+  <a>
+    <img align="left" width="100" height="100" alt="linkedin-icon" src="" />
+  </a>
 </div>
   
 ***
