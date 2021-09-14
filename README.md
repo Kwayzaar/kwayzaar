@@ -17,9 +17,8 @@
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
+<br/>
 
-
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)
 
 
