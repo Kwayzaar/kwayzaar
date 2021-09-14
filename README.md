@@ -27,7 +27,7 @@
   </div>
   <br/>
   <!-- language counter -->
-  <div style="display: flex; flex-direction: column; align-items: flex-start">
+  <div style="display: flex; flex-direction: column; width:100%; align-items: flex-start">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
 </div>
