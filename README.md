@@ -23,7 +23,7 @@
   </div>
  
   <!-- language counter -->
-  <div width="full" height="full" align="top">
+  <div width="full" height="full" align="left">
     <img align="left" width="full" height="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
   <br/>
