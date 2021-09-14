@@ -69,15 +69,16 @@
     <img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" />
     <br/>
   </div>
+  <br/>
   
   
 ### Let's Connect! 
   <br/>
-  <div width="full" height="full" align="left">
-    <a align="top" width="full" height="full">
+  <div width="full" height="full" align="top">
+    <a align="left" width="full" height="full">
       <img align="left" width="50" height="50" alt="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
     </a>
-    <a align="top" width="full" height="full">
+    <a align="left" width="full" height="full">
       <img align="left" width="50" height="50" alt="gmail-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /><p>: lee.eric.03</p>
     </a>
   <!--   <a>
