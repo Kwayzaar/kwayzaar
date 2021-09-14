@@ -24,7 +24,7 @@
  
   <!-- language counter -->
   <div width="full">
-    <img align="left" width="100" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
+    <img align="left" width="full" height="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
   <br/>
 </div>
