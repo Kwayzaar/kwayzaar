@@ -20,6 +20,9 @@
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwayzaar)](https://github.com/kwayzaar/github-readme-stats)
+
+
 
 ### Current read list :book:
 <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
