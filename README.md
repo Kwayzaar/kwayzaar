@@ -71,8 +71,6 @@
   </div>  
 </div>
 <br/>
-  
-***
 
   
 <!-- ### Let's Connect!
