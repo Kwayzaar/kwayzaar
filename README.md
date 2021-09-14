@@ -84,6 +84,7 @@
       <img align="left" width="100" height="100" alt="linkedin-icon" src="" />
     </a> -->
   </div>
+  <br/>
 </div>
 
 ***
