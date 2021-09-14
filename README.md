@@ -72,8 +72,8 @@
   <br/>
   
 
-  <div width="full" height="full" align="top">
-    <span>###Let's Connect!</span>
+  <div width="full" height="full" align="top" markdown="1">
+    ###Let's Connect!
   
     <a align="left" width="full" height="full">
       <img align="left" width="50" height="50" alt="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
