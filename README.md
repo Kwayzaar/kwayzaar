@@ -37,6 +37,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats) -->
 
 <br>
+<br/>
 ### Current read list :book:
 <div style="width: 100%">
   <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
