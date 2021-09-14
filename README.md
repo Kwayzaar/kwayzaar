@@ -29,8 +29,8 @@
   <!-- language counter -->
   <div style="display: flex; flex-direction: column; align-items: flex-start">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
-  </div>
-</div>
+  </div><br/>
+</div><br/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats) -->
 
