@@ -68,11 +68,11 @@
     <img align="left" width="80px" alt="nemesis-games" src="https://static.wikia.nocookie.net/expanse/images/6/60/Nemesis_Games.jpg/revision/latest/scale-to-width-down/329?cb=20140808222629" />
     <img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" />
 
-  </div>
-  <br/>
-  
+  </div>  
 </div>
+<br/>
   
+***
 
   
 <!-- ### Let's Connect!
@@ -93,7 +93,7 @@
   <br/> -->
 
 
-***
+
 
 
 <!--
