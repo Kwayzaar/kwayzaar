@@ -73,7 +73,7 @@
   
   
 ### Let's Connect! 
-  <div width="full" height="full" align="top">
+  <div width="full" height="full" align="left">
     <a align="left" width="full" height="full">
       <img align="left" width="50" height="50" alt="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
     </a>
@@ -84,7 +84,6 @@
       <img align="left" width="100" height="100" alt="linkedin-icon" src="" />
     </a> -->
   </div>
-  <br/>
 </div>
 
 ***
