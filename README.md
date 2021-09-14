@@ -71,7 +71,7 @@
   
 ### Let's Connect! 
   <br/>
-  <div width="full" height="full" align="top">
+  <div width="full" height="full" align="left">
     <a align="left">
       <img align="left" width="50" height="50" alt="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
     </a>
