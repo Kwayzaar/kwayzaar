@@ -27,9 +27,7 @@
   </div>
 <!-- language counter -->
   <div style="display: flex, align-items: flex-start">
-    <a href="https://github.com/kwayzaar/github-readme-stats">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
-    </a>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
   </div>
 </div>
 
