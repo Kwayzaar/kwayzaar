@@ -9,7 +9,7 @@
 
 ***
 <div align="left">
-  <div style="display: flex; align-items: flex-start">
+  <div>
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox" />
   </div> 
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)   -->
