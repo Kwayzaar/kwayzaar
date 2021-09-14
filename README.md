@@ -36,10 +36,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats) -->
 
-
-<div style="min-width: 100%">
-</div>
-  
+***  
   
 ### Current read list :book:
 <div style="width: 100%">
