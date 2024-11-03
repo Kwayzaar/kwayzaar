@@ -8,20 +8,22 @@
 ###### - truly enjoys grinding out that last squat rep  
 
 ***
-<div align="left">
+<!-- <div align="left">
   <div>
     <a href="https://github.com/kwayzaar/github-readme-stats">
       <img align="top" src="https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox" />
     </a>
   </div> 
   <br/>
-  <!-- language counter -->
+  -->
+  <!-- language counter 
   <div width="full" height="full" align="left">
     <a href="https://github.com/kwayzaar/github-readme-stats">
       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox" />
     </a>
     <br/>
   </div>
+  -->
   
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api?username=kwayzaar&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats)   -->
