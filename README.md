@@ -54,41 +54,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwayzaar&hide_title=true&layout=compact&theme=gruvbox)](https://github.com/kwayzaar/github-readme-stats) -->
 
 ***  
-  
-### Current read list :book:
-  
-<div align="left">
-  <div width="full" height="full" align="left">
-    <img align="left" width="85px" alt="eloquent-javascript" src="https://eloquentjavascript.net/img/cover.jpg" />
-    <img align="left" width="92px" alt="grokking-alg" src="https://images.manning.com/360/480/resize/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png" />
-    <img align="left" width="80px" alt="nemesis-games" src="https://static.wikia.nocookie.net/expanse/images/6/60/Nemesis_Games.jpg/revision/latest/scale-to-width-down/329?cb=20140808222629" />
-    <img align="left" width="80px" alt="mistborn" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Mistborn-cover.jpg/220px-Mistborn-cover.jpg" />
-
-  </div>  
-</div>
-<br/>
-
-  
-<!-- ### Let's Connect!
-  
-<!--   <div width="full" height="full" align="top" class="container is-max-widescreen"> -->
-<!--   <section>
-    <a align="left" width="full" height="full">
-      <img align="left" width="50" height="50" alt="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
-    </a>
-    <a align="left" width="full" height="full">
-      <img align="left" width="50" height="50" alt="gmail-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /><p>: lee.eric.03</p>
-    </a>
-  <!--   <a>
-      <img align="left" width="100" height="100" alt="linkedin-icon" src="" />
-    </a> -->
-<!--   </div> -->
-<!--   </section>
-  <br/> -->
-
-
-
-
 
 <!--
 **Kwayzaar/kwayzaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
